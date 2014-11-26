@@ -1,0 +1,1368 @@
+case Arctic_Boar:
+maxHealth = 160;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Arctic Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Arctic Boar";
+break;
+
+case Arctic_Probuscbat:
+maxHealth = 160;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Arctic Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Arctic Probuscbat";
+break;
+
+case Ashlott:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Ashlott 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Ashlott";
+break;
+
+case Baby_Cyclops:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Baby Cyclops 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Baby Cyclops";
+break;
+
+case Banazo:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Banazo 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Banazo";
+break;
+
+case Bat:
+maxHealth = 100;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Bat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Bat";
+break;
+
+case Batousse:
+maxHealth = 100;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Batousse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Batousse";
+break;
+
+case Beaver:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Beaver 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Beaver";
+break;
+
+case Birdy:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Birdy 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Birdy";
+break;
+
+case Blobby:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Blobby 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blobby";
+break;
+
+case Blue_Birdy:
+maxHealth = 130;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Blue Birdy 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blue Birdy";
+break;
+
+case Blue_Boar:
+maxHealth = 130;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Blue Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blue Boar";
+break;
+
+case Blue_Mousey:
+maxHealth = 130;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Blue Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blue Mousey";
+break;
+
+case Blue_Ogre:
+maxHealth = 130;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Blue Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blue Ogre";
+break;
+
+case Blue_Penduck:
+maxHealth = 130;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Blue Penduck 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blue Penduck";
+break;
+
+case Blue_Phantmouse:
+maxHealth = 130;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Blue Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blue Phantmouse";
+break;
+
+case Blue_Probuscbat:
+maxHealth = 130;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Blue Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Blue Probuscbat";
+break;
+
+case Boar:
+maxHealth = 100;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Boar";
+break;
+
+case Botomus:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Botomus 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Botomus";
+break;
+
+case Brown_Birdy:
+maxHealth = 90;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Brown Birdy 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Brown Birdy";
+break;
+
+case Brown_Boar:
+maxHealth = 90;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Brown Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Brown Boar";
+break;
+
+case Brown_Clawfish:
+maxHealth = 90;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Brown Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Brown Clawfish";
+break;
+
+case Brown_Mousey:
+maxHealth = 90;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Brown Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Brown Mousey";
+break;
+
+case Brown_Phantmouse:
+maxHealth = 90;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Brown Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Brown Phantmouse";
+break;
+
+case Clawfish:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Clawfish";
+break;
+
+case Cute_Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Cute Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Cute Gremlin";
+break;
+
+case Cyber_Turtle:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Cyber Turtle 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Cyber Turtle";
+break;
+
+case Dark_Clawfish:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Dark Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Dark Clawfish";
+break;
+
+case Dark_Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Dark Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Dark Gremlin";
+break;
+
+case Darline:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Darline 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Darline";
+break;
+
+case Dwarque:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Dwarque 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Dwarque";
+break;
+
+case Emerald_Mousey:
+maxHealth = 115;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Emerald Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Emerald Mousey";
+break;
+
+case Fediris:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Fediris 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Fediris";
+break;
+
+case Finfish:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Finfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Finfish";
+break;
+
+case Fire_Boar:
+maxHealth = 150;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Fire Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Fire Boar";
+break;
+
+case Fire_Clawfish:
+maxHealth = 150;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Fire Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Fire Clawfish";
+break;
+
+case Fire_Gremlin:
+maxHealth = 150;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Fire Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Fire Gremlin";
+break;
+
+case Fire_Mousey:
+maxHealth = 150;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Fire Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Fire Mousey";
+break;
+
+case Fire_Penduck:
+maxHealth = 150;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Fire Penduck 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Fire Penduck";
+break;
+
+case Frankenelf:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Frankenelf 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Frankenelf";
+break;
+
+case Ghost_Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Ghost Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Ghost Gremlin";
+break;
+
+case Ghouli:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Ghouli 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Ghouli";
+break;
+
+case Goblin_Warlord:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Goblin Warlord 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Goblin Warlord";
+break;
+
+case Gormless_Zombie:
+maxHealth = 100;
+Speed = 70;
+position = 1;
+Sprite = loadSpriteData("Gormless Zombie 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Gormless Zombie";
+break;
+
+case Green_Birdy:
+maxHealth = 115;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Green Birdy 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Birdy";
+break;
+
+case Green_Boar:
+maxHealth = 115;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Green Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Boar";
+break;
+
+case Green_Clawfish:
+maxHealth = 115;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Green Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Clawfish";
+break;
+
+case Green_Gremlin:
+maxHealth = 115;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Green Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Gremlin";
+break;
+
+case Green_Hopper:
+maxHealth = 115;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Green Hopper 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Hopper";
+break;
+
+case Green_Mousey:
+maxHealth = 115;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Green Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Mousey";
+break;
+
+case Green_Ogre:
+maxHealth = 115;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Green Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Ogre";
+break;
+
+case Green_Phantmouse:
+maxHealth = 115;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Green Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Phantmouse";
+break;
+
+case Green_Probuscbat:
+maxHealth = 115;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Green Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Probuscbat";
+break;
+
+case Green_Scary:
+maxHealth = 115;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Green Scary 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Scary";
+break;
+
+case Green_Sparky:
+maxHealth = 115;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Green Sparky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Green Sparky";
+break;
+
+case Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Gremlin";
+break;
+
+case Grey_Ogre:
+maxHealth = 95;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Grey Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Grey Ogre";
+break;
+
+case Grey_Phantmouse:
+maxHealth = 95;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Grey Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Grey Phantmouse";
+break;
+
+case Grey_Probuscbat:
+maxHealth = 95;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Grey Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Grey Probuscbat";
+break;
+
+case Grinimous:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Grinimous 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Grinimous";
+break;
+
+case Gurnel:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Gurnel 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Gurnel";
+break;
+
+case Hampire:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Hampire 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Hampire";
+break;
+
+case Hell_Bat:
+maxHealth = 100;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Hell Bat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Hell Bat";
+break;
+
+case Hopper:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Hopper 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Hopper";
+break;
+
+case Icy_Boar:
+maxHealth = 160;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Icy Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Icy Boar";
+break;
+
+case Icy_Ogre:
+maxHealth = 160;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Icy Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Icy Ogre";
+break;
+
+case Icy_Phantmouse:
+maxHealth = 160;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Icy Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Icy Phantmouse";
+break;
+
+case Knigmus:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Knigmus 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Knigmus";
+break;
+
+case Kurio:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Kurio 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Kurio";
+break;
+
+case Lion:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Lion 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Lion";
+break;
+
+case Lokem:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Lokem 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Lokem";
+break;
+
+case Minotaur:
+maxHealth = 100;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Minotaur 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Minotaur";
+break;
+
+case Mosqo:
+maxHealth = 100;
+Speed = 98;
+position = 1;
+Sprite = loadSpriteData("Mosqo 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Mosqo";
+break;
+
+case Mousey:
+maxHealth = 100;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Mousey";
+break;
+
+case Necromancer:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Necromancer 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Necromancer";
+break;
+
+case Ogre:
+maxHealth = 100;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Ogre";
+break;
+
+case Orange_Clawfish:
+maxHealth = 135;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Orange Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Clawfish";
+break;
+
+case Orange_Gremlin:
+maxHealth = 135;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Orange Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Gremlin";
+break;
+
+case Orange_Hopper:
+maxHealth = 135;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Orange Hopper 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Hopper";
+break;
+
+case Orange_Mousey:
+maxHealth = 135;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Orange Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Mousey";
+break;
+
+case Orange_Ogre:
+maxHealth = 135;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Orange Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Ogre";
+break;
+
+case Orange_Penduck:
+maxHealth = 135;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Orange Penduck 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Penduck";
+break;
+
+case Orange_Phantmouse:
+maxHealth = 135;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Orange Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Phantmouse";
+break;
+
+case Orange_Probuscbat:
+maxHealth = 135;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Orange Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Probuscbat";
+break;
+
+case Orange_Sparky:
+maxHealth = 135;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Orange Sparky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Orange Sparky";
+break;
+
+case Penduck:
+maxHealth = 100;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Penduck 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Penduck";
+break;
+
+case Phantmouse:
+maxHealth = 100;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Phantmouse";
+break;
+
+case Pink_Birdy:
+maxHealth = 120;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Pink Birdy 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Birdy";
+break;
+
+case Pink_Boar:
+maxHealth = 120;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Pink Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Boar";
+break;
+
+case Pink_Clawfish:
+maxHealth = 120;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Pink Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Clawfish";
+break;
+
+case Pink_Gremlin:
+maxHealth = 120;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Pink Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Gremlin";
+break;
+
+case Pink_Hopper:
+maxHealth = 120;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Pink Hopper 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Hopper";
+break;
+
+case Pink_Mousey:
+maxHealth = 120;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Pink Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Mousey";
+break;
+
+case Pink_Ogre:
+maxHealth = 120;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Pink Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Ogre";
+break;
+
+case Pink_Penduck:
+maxHealth = 120;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Pink Penduck 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Penduck";
+break;
+
+case Pink_Phantmouse:
+maxHealth = 120;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Pink Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Phantmouse";
+break;
+
+case Pink_Sparky:
+maxHealth = 120;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Pink Sparky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pink Sparky";
+break;
+
+case Pinky:
+maxHealth = 120;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Pinky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pinky";
+break;
+
+case Pirate_Panda:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Pirate Panda 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pirate Panda";
+break;
+
+case Pointy_Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Pointy Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Pointy Gremlin";
+break;
+
+case Probuscbat:
+maxHealth = 100;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Probuscbat";
+break;
+
+case Purple_Clawfish:
+maxHealth = 125;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Purple Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Purple Clawfish";
+break;
+
+case Purple_Finfish:
+maxHealth = 125;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Purple Finfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Purple Finfish";
+break;
+
+case Purple_Hopper:
+maxHealth = 125;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Purple Hopper 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Purple Hopper";
+break;
+
+case Purple_Mousey:
+maxHealth = 125;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Purple Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Purple Mousey";
+break;
+
+case Purple_Phantmouse:
+maxHealth = 125;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Purple Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Purple Phantmouse";
+break;
+
+case Purple_Probuscbat:
+maxHealth = 125;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Purple Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Purple Probuscbat";
+break;
+
+case Purple_Sparky:
+maxHealth = 125;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Purple Sparky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Purple Sparky";
+break;
+
+case Queen_Bee:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Queen Bee 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Queen Bee";
+break;
+
+case Rainbow_Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Rainbow Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Rainbow Gremlin";
+break;
+
+case Red_Boar:
+maxHealth = 150;
+Speed = 120;
+position = 1;
+Sprite = loadSpriteData("Red Boar 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Boar";
+break;
+
+case Red_Clawfish:
+maxHealth = 150;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Red Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Clawfish";
+break;
+
+case Red_Finfish:
+maxHealth = 150;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Red Finfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Finfish";
+break;
+
+case Red_Gremlin:
+maxHealth = 150;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Red Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Gremlin";
+break;
+
+case Red_Mousey:
+maxHealth = 150;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Red Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Mousey";
+break;
+
+case Red_Ogre:
+maxHealth = 150;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Red Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Ogre";
+break;
+
+case Red_Penduck:
+maxHealth = 150;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Red Penduck 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Penduck";
+break;
+
+case Red_Phantmouse:
+maxHealth = 150;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Red Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Phantmouse";
+break;
+
+case Red_Probuscbat:
+maxHealth = 150;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Red Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Probuscbat";
+break;
+
+case Red_Scary:
+maxHealth = 150;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Red Scary 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Scary";
+break;
+
+case Red_Sparky:
+maxHealth = 150;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Red Sparky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Red Sparky";
+break;
+
+case Runner:
+maxHealth = 100;
+Speed = 140;
+position = 1;
+Sprite = loadSpriteData("Runner 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Runner";
+break;
+
+case Scary:
+maxHealth = 100;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Scary 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Scary";
+break;
+
+case Skeleton:
+maxHealth = 100;
+Speed = 80;
+position = 1;
+Sprite = loadSpriteData("Skeleton 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Skeleton";
+break;
+
+case Skeleton_Bat:
+maxHealth = 100;
+Speed = 80;
+position = 1;
+Sprite = loadSpriteData("Skeleton Bat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Skeleton Bat";
+break;
+
+case Sky_Mousey:
+maxHealth = 130;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Sky Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Sky Mousey";
+break;
+
+case Snowy_Birdy:
+maxHealth = 160;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Snowy Birdy 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Snowy Birdy";
+break;
+
+case Snowy_Hopper:
+maxHealth = 160;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Snowy Hopper 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Snowy Hopper";
+break;
+
+case Sparky:
+maxHealth = 100;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Sparky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Sparky";
+break;
+
+case Spider:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Spider 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Spider";
+break;
+
+case The_Mime:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("The Mime 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "The Mime";
+break;
+
+case Turtle_Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Turtle Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Turtle Gremlin";
+break;
+
+case Vampire:
+maxHealth = 100;
+Speed = 130;
+position = 1;
+Sprite = loadSpriteData("Vampire 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Vampire";
+break;
+
+case Viking_Monkey:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Viking Monkey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Viking Monkey";
+break;
+
+case Waddle:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Waddle 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Waddle";
+break;
+
+case White_Gremlin:
+maxHealth = 100;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("White Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "White Gremlin";
+break;
+
+case Wraith:
+maxHealth = 100;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Wraith 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Wraith";
+break;
+
+case Yellow_Birdy:
+maxHealth = 140;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Yellow Birdy 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Birdy";
+break;
+
+case Yellow_Clawfish:
+maxHealth = 140;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Yellow Clawfish 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Clawfish";
+break;
+
+case Yellow_Gremlin:
+maxHealth = 140;
+Speed = 105;
+position = 1;
+Sprite = loadSpriteData("Yellow Gremlin 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Gremlin";
+break;
+
+case Yellow_Hopper:
+maxHealth = 140;
+Speed = 100;
+position = 1;
+Sprite = loadSpriteData("Yellow Hopper 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Hopper";
+break;
+
+case Yellow_Mousey:
+maxHealth = 140;
+Speed = 106;
+position = 1;
+Sprite = loadSpriteData("Yellow Mousey 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Mousey";
+break;
+
+case Yellow_Ogre:
+maxHealth = 140;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Yellow Ogre 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Ogre";
+break;
+
+case Yellow_Penduck:
+maxHealth = 140;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Yellow Penduck 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Penduck";
+break;
+
+case Yellow_Phantmouse:
+maxHealth = 140;
+Speed = 115;
+position = 1;
+Sprite = loadSpriteData("Yellow Phantmouse 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Phantmouse";
+break;
+
+case Yellow_Probuscbat:
+maxHealth = 140;
+Speed = 125;
+position = 1;
+Sprite = loadSpriteData("Yellow Probuscbat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Probuscbat";
+break;
+
+case Yellow_Scary:
+maxHealth = 140;
+Speed = 135;
+position = 1;
+Sprite = loadSpriteData("Yellow Scary 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Scary";
+break;
+
+case Yellow_Sparky:
+maxHealth = 140;
+Speed = 110;
+position = 1;
+Sprite = loadSpriteData("Yellow Sparky 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Yellow Sparky";
+break;
+
+case Zombie_Aristocrat:
+maxHealth = 100;
+Speed = 70;
+position = 1;
+Sprite = loadSpriteData("Zombie Aristocrat 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Zombie Aristocrat";
+break;
+
+case Zombie_Beaver:
+maxHealth = 100;
+Speed = 70;
+position = 1;
+Sprite = loadSpriteData("Zombie Beaver 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Zombie Beaver";
+break;
+
+case Zombie_Mime:
+maxHealth = 100;
+Speed = 70;
+position = 1;
+Sprite = loadSpriteData("Zombie Mime 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Zombie Mime";
+break;
+
+case Zombie_Skeleton:
+maxHealth = 100;
+Speed = 80;
+position = 1;
+Sprite = loadSpriteData("Zombie Skeleton 1") ;
+Sprite.setOrigin(Sprite.getGlobalBounds().width/2, Sprite.getGlobalBounds().height/2);
+Name = "Zombie Skeleton";
+break;
+

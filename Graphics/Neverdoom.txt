@@ -1,0 +1,323 @@
+Arctic Boar (front 1):4046:39:31:38
+Arctic Boar (front 2):4037:78:31:38
+Arctic Probuscbat (front 1):4597:64:61:31
+Arctic Probuscbat (front 2):4586:0:61:31
+Ashlott (front 1):1667:42:52:41
+Ashlott (front 2):1641:0:52:41
+Baby Cyclops (front 1):457:0:43:56
+Baby Cyclops (front 2):450:57:43:56
+Banazo (front 1):1617:86:36:42
+Banazo (front 2):1597:43:36:42
+Bat (front 1):4551:96:63:24
+Bat (front 2):4363:99:63:25
+Batousse (front 1):4095:0:59:36
+Batousse (front 2):4097:37:57:36
+Beaver (front 1):1213:45:46:44
+Beaver (front 2):1175:0:46:44
+Birdy (front 1):1833:82:26:40
+Birdy (front 2):1829:0:26:40
+Blobby (front 1):723:98:29:29
+Blobby (front 2):652:99:29:29
+Blood 1:605:50:64:48
+Blood 2:205:0:48:64
+Blood 3:74:65:47:63
+Blood 4:254:0:47:64
+Blood 5:156:0:48:64
+Blue Birdy (front 1):1813:41:26:40
+Blue Birdy (front 2):1806:82:26:40
+Blue Boar (front 1):4033:0:31:38
+Blue Boar (front 2):4014:39:31:38
+Blue Mousey (front 1):3298:78:42:38
+Blue Mousey (front 2):3286:0:42:38
+Blue Ogre (front 1):3853:39:32:38
+Blue Ogre (front 2):3844:78:32:38
+Blue Penduck (front 1):834:0:31:48
+Blue Penduck (front 2):830:49:31:48
+Blue Phantmouse (front 1):2685:0:58:39
+Blue Phantmouse (front 2):2669:40:58:39
+Blue Probuscbat (front 1):4584:32:61:31
+Blue Probuscbat (front 2):4535:64:61:31
+Blue Smoke:1318:0:43:43
+Boar (front 1):4005:78:31:38
+Boar (front 2):4001:0:31:38
+Botomus (front 1):4141:74:41:36
+Botomus (front 2):4099:74:41:36
+Brown Birdy (front 1):1802:0:26:40
+Brown Birdy (front 2):1786:41:26:40
+Brown Boar (front 1):3982:39:31:38
+Brown Boar (front 2):3973:78:31:38
+Brown Clawfish (front 1):2627:80:58:39
+Brown Clawfish (front 2):2626:0:58:39
+Brown Mousey (front 1):3265:39:42:38
+Brown Mousey (front 2):3255:78:42:38
+Brown Phantmouse (front 1):2610:40:58:39
+Brown Phantmouse (front 2):2568:80:58:39
+Clawfish (front 1):2567:0:58:39
+Clawfish (front 2):2551:40:58:39
+Crosshair:943:95:33:33
+Cursor:4247:108:17:20
+Cute Gremlin (front 1):4155:0:50:35
+Cute Gremlin (front 2):1045:93:50:35
+Cyber Turtle (front 1):1271:0:46:43
+Cyber Turtle (front 2):1260:44:46:43
+Dark Clawfish (front 1):2509:80:58:39
+Dark Clawfish (front 2):2508:0:58:39
+Dark Gremlin (front 1):2980:40:41:39
+Dark Gremlin (front 2):2938:80:41:39
+Darline (front 1):1222:0:48:43
+Darline (front 2):1694:0:48:41
+Dwarque (front 1):3022:40:27:39
+Dwarque (front 2):3012:80:27:39
+Emerald Mousey (front 1):3243:0:42:38
+Emerald Mousey (front 2):3222:39:42:38
+Explosion:1025:0:51:44
+Fediris (front 1):1654:86:53:41
+Fediris (front 2):1563:87:53:41
+Finfish (front 1):4304:0:33:34
+Finfish (front 2):4315:71:33:34
+Fire Boar (front 1):3969:0:31:38
+Fire Boar (front 2):3950:39:31:38
+Fire Clawfish (front 1):2492:40:58:39
+Fire Clawfish (front 2):2450:80:58:39
+Fire Gremlin (front 1):2954:0:41:39
+Fire Gremlin (front 2):2938:40:41:39
+Fire Mousey (front 1):3212:78:42:38
+Fire Mousey (front 2):3200:0:42:38
+Fire Penduck (front 1):802:0:31:48
+Fire Penduck (front 2):798:49:31:48
+Flash:4078:39:18:37
+Frankenelf (front 1):1166:45:46:44
+Frankenelf (front 2):1021:47:46:45
+Ghost Gremlin (front 1):2896:80:41:39
+Ghost Gremlin (front 2):2912:0:41:39
+Ghouli (front 1):1720:42:38:41
+Ghouli (front 2):1708:84:38:41
+Goblin Warlord (front 1):971:0:31:46
+Goblin Warlord (front 2):967:47:31:46
+Gormless Zombie (front 1):1362:0:39:43
+Gormless Zombie (front 2):1351:44:39:43
+Green Birdy (front 1):1779:83:26:40
+Green Birdy (front 2):1775:0:26:40
+Green Boar (front 1):3941:78:31:38
+Green Boar (front 2):3937:0:31:38
+Green Clawfish (front 1):2449:0:58:39
+Green Clawfish (front 2):2433:40:58:39
+Green Gremlin (front 1):2896:40:41:39
+Green Gremlin (front 2):2854:80:41:39
+Green Hopper (front 1):3497:0:41:38
+Green Hopper (front 2):3476:39:41:38
+Green Mousey (front 1):3179:39:42:38
+Green Mousey (front 2):3169:78:42:38
+Green Ogre (front 1):3840:0:32:38
+Green Ogre (front 2):3820:39:32:38
+Green Phantmouse (front 1):2391:80:58:39
+Green Phantmouse (front 2):2390:0:58:39
+Green Probuscbat (front 1):4489:96:61:31
+Green Probuscbat (front 2):4524:0:61:31
+Green Scary (front 1):1510:0:35:43
+Green Scary (front 2):1499:44:35:43
+Green Sparky (front 1):3654:39:33:38
+Green Sparky (front 2):3645:78:33:38
+Gremlin (front 1):2870:0:41:39
+Gremlin (front 2):2854:40:41:39
+Grey Ogre (front 1):3811:78:32:38
+Grey Ogre (front 2):3807:0:32:38
+Grey Phantmouse (front 1):2374:40:58:39
+Grey Phantmouse (front 2):2332:80:58:39
+Grey Probuscbat (front 1):4522:32:61:31
+Grey Probuscbat (front 2):4473:64:61:31
+Grinimous (front 1):2980:80:31:39
+Grinimous (front 2):2996:0:31:39
+Gurnel (front 1):1634:43:32:42
+Gurnel (front 2):1608:0:32:42
+Hampire (front 1):1546:0:24:43
+Hampire (front 2):1535:44:24:43
+Hell Bat (front 1):596:106:55:21
+Hell Bat (front 2):540:106:55:22
+Hopper (front 1):3467:78:41:38
+Hopper (front 2):3455:0:41:38
+Icy Boar (front 1):3918:39:31:38
+Icy Boar (front 2):3909:78:31:38
+Icy Ogre (front 1):3787:39:32:38
+Icy Ogre (front 2):3778:78:32:38
+Icy Phantmouse (front 1):2331:0:58:39
+Icy Phantmouse (front 2):2315:40:58:39
+Knigmus (front 1):1003:0:21:46
+Knigmus (front 2):999:47:21:46
+Kurio (front 1):4615:96:31:19
+Kurio (front 2):4265:108:31:19
+Lion (front 1):37:67:36:59
+Lion (front 2):0:67:36:59
+Lokem (front 1):1856:0:61:39
+Lokem (front 2):1840:41:61:39
+Minotaur (front 1):122:65:37:63
+Minotaur (front 2):256:65:37:62
+Mosqo (front 1):1314:88:45:40
+Mosqo (front 2):1268:88:45:40
+Mousey (front 1):3157:0:42:38
+Mousey (front 2):3136:39:42:38
+Necromancer (front 1):107:0:48:64
+Necromancer (front 2):58:0:48:64
+Ogre (front 1):3774:0:32:38
+Ogre (front 2):3754:39:32:38
+Orange Clawfish (front 1):2273:80:58:39
+Orange Clawfish (front 2):2272:0:58:39
+Orange Gremlin (front 1):2812:80:41:39
+Orange Gremlin (front 2):2828:0:41:39
+Orange Hopper (front 1):3434:39:41:38
+Orange Hopper (front 2):3425:78:41:38
+Orange Mousey (front 1):3126:78:42:38
+Orange Mousey (front 2):3114:0:42:38
+Orange Ogre (front 1):3745:78:32:38
+Orange Ogre (front 2):3741:0:32:38
+Orange Penduck (front 1):770:0:31:48
+Orange Penduck (front 2):766:49:31:48
+Orange Phantmouse (front 1):2256:40:58:39
+Orange Phantmouse (front 2):2214:80:58:39
+Orange Probuscbat (front 1):4427:96:61:31
+Orange Probuscbat (front 2):4462:0:61:31
+Orange Sparky (front 1):3641:0:33:38
+Orange Sparky (front 2):3620:39:33:38
+Penduck (front 1):738:0:31:48
+Penduck (front 2):734:49:31:48
+Phantmouse (front 1):2213:0:58:39
+Phantmouse (front 2):2197:40:58:39
+Pink Birdy (front 1):1759:42:26:40
+Pink Birdy (front 2):1536:88:26:40
+Pink Boar (front 1):3905:0:31:38
+Pink Boar (front 2):3886:39:31:38
+Pink Clawfish (front 1):2155:80:58:39
+Pink Clawfish (front 2):2154:0:58:39
+Pink Gremlin (front 1):2812:40:41:39
+Pink Gremlin (front 2):2770:80:41:39
+Pink Hopper (front 1):3413:0:41:38
+Pink Hopper (front 2):3392:39:41:38
+Pink Mousey (front 1):3093:39:42:38
+Pink Mousey (front 2):3083:78:42:38
+Pink Ogre (front 1):3721:39:32:38
+Pink Ogre (front 2):3712:78:32:38
+Pink Penduck (front 1):706:0:31:48
+Pink Penduck (front 2):702:49:31:48
+Pink Phantmouse (front 1):2138:40:58:39
+Pink Phantmouse (front 2):2096:80:58:39
+Pink Sparky (front 1):3611:78:33:38
+Pink Sparky (front 2):3607:0:33:38
+Pinky (front 1):1077:0:50:44
+Pinky (front 2):1068:45:50:44
+Pirate Panda (front 1):494:57:45:55
+Pirate Panda (front 2):501:0:43:55
+Player 1:4255:0:48:35
+Player 2:4253:36:48:35
+Player 3:4232:72:48:35
+Player 4:4206:0:48:35
+Player 5:682:98:40:30
+Player 6:4204:36:48:35
+Player 7:4183:72:48:35
+Player 8:4155:36:48:35
+Pointy Gremlin (front 1):4330:106:32:21
+Pointy Gremlin (front 2):4297:107:32:21
+Probuscbat (front 1):4460:32:61:31
+Probuscbat (front 2):4411:64:61:31
+Purple Clawfish (front 1):2095:0:58:39
+Purple Clawfish (front 2):2079:40:58:39
+Purple Finfish (front 1):4302:36:33:34
+Purple Finfish (front 2):4281:72:33:34
+Purple Hopper (front 1):3383:78:41:38
+Purple Hopper (front 2):3371:0:41:38
+Purple Mousey (front 1):3071:0:42:38
+Purple Mousey (front 2):3050:39:42:38
+Purple Phantmouse (front 1):2037:80:58:39
+Purple Phantmouse (front 2):2036:0:58:39
+Purple Probuscbat (front 1):4400:0:61:31
+Purple Probuscbat (front 2):4398:32:61:31
+Purple Sparky (front 1):3586:39:33:38
+Purple Sparky (front 2):3577:78:33:38
+Queen Bee (front 1):411:0:45:56
+Queen Bee (front 2):404:58:45:56
+Rainbow Gremlin (front 1):866:0:40:47
+Rainbow Gremlin (front 2):862:49:40:47
+Red Boar (front 1):3877:78:31:38
+Red Boar (front 2):3873:0:31:38
+Red Clawfish (front 1):2020:40:58:39
+Red Clawfish (front 2):1978:80:58:39
+Red Finfish (front 1):1011:94:33:34
+Red Finfish (front 2):977:94:33:34
+Red Gremlin (front 1):2786:0:41:39
+Red Gremlin (front 2):2770:40:41:39
+Red Mousey (front 1):3040:80:42:38
+Red Mousey (front 2):3028:0:42:38
+Red Ogre (front 1):3708:0:32:38
+Red Ogre (front 2):3688:39:32:38
+Red Penduck (front 1):674:0:31:48
+Red Penduck (front 2):670:49:31:48
+Red Phantmouse (front 1):1977:0:58:39
+Red Phantmouse (front 2):1961:40:58:39
+Red Probuscbat (front 1):4349:67:61:31
+Red Probuscbat (front 2):4338:0:61:31
+Red Scary (front 1):1474:0:35:43
+Red Scary (front 2):1463:44:35:43
+Red Sparky (front 1):3573:0:33:38
+Red Sparky (front 2):3552:39:33:38
+Runner (front 1):1747:84:31:41
+Runner (front 2):1743:0:31:41
+Scary (front 1):1438:0:35:43
+Scary (front 2):1427:44:35:43
+Skeleton (front 1):302:0:27:62
+Skeleton (front 2):294:65:27:62
+Skeleton Bat (front 1):4099:111:62:16
+Skeleton Bat (front 2):4183:108:63:20
+Sky Mousey (front 1):1225:90:42:38
+Sky Mousey (front 2):1182:90:42:38
+Smoke:1307:44:43:43
+Snowy Birdy (front 1):1509:88:26:40
+Snowy Birdy (front 2):1482:88:26:40
+Snowy Hopper (front 1):3350:39:41:38
+Snowy Hopper (front 2):3341:78:41:38
+Sparky (front 1):3543:78:33:38
+Sparky (front 2):3539:0:33:38
+Spider (front 1):907:0:63:46
+Spider (front 2):903:48:63:46
+The Mime (front 1):1394:88:33:40
+The Mime (front 2):1360:88:33:40
+Turtle Gremlin (front 1):545:0:64:49
+Turtle Gremlin (front 2):540:56:64:49
+Vampire (front 1):208:65:47:62
+Vampire (front 2):160:65:47:62
+Viking Monkey (front 1):375:0:35:57
+Viking Monkey (front 2):368:59:35:57
+Waddle (front 1):817:98:63:25
+Waddle (front 2):753:98:63:25
+White Gremlin (front 1):2728:80:41:39
+White Gremlin (front 2):2744:0:41:39
+Wraith (front 1):322:63:45:58
+Wraith (front 2):330:0:44:58
+Yellow Birdy (front 1):1455:88:26:40
+Yellow Birdy (front 2):1428:88:26:40
+Yellow Clawfish (front 1):1919:80:58:39
+Yellow Clawfish (front 2):1918:0:58:39
+Yellow Gremlin (front 1):2728:40:41:39
+Yellow Gremlin (front 2):2686:80:41:39
+Yellow Hopper (front 1):3329:0:41:38
+Yellow Hopper (front 2):3308:39:41:38
+Yellow Mousey (front 1):1139:90:42:38
+Yellow Mousey (front 2):1096:90:42:38
+Yellow Ogre (front 1):3679:78:32:38
+Yellow Ogre (front 2):3675:0:32:38
+Yellow Penduck (front 1):642:0:31:48
+Yellow Penduck (front 2):610:0:31:48
+Yellow Phantmouse (front 1):1902:40:58:39
+Yellow Phantmouse (front 2):1860:81:58:39
+Yellow Probuscbat (front 1):4336:35:61:31
+Yellow Probuscbat (front 2):881:97:61:31
+Yellow Scary (front 1):1402:0:35:43
+Yellow Scary (front 2):1391:44:35:43
+Yellow Sparky (front 1):3518:39:33:38
+Yellow Sparky (front 2):3509:78:33:38
+Zombie Aristocrat (front 1):4069:78:29:38
+Zombie Aristocrat (front 2):4065:0:29:38
+Zombie Beaver (front 1):1128:0:46:44
+Zombie Beaver (front 2):1119:45:46:44
+Zombie Mime (front 1):1571:0:36:42
+Zombie Mime (front 2):1560:44:36:42
+Zombie Skeleton (front 1):29:0:28:66
+Zombie Skeleton (front 2):0:0:28:66

@@ -1,0 +1,4 @@
+#include "Windows.h"
+
+// icons
+ICON_MAIN     ICON    "Graphics/Icon.ico"

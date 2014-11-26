@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Neverdoom" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Game\;Engines\;File Systems\;Menus\;Declarations\;Controls\;AMain\;" />
+		<Build>
+			<Target title="Console">
+				<Option output="Neverdoom - Console" prefix_auto="1" extension_auto="1" />
+				<Option object_output="bin\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="GUI">
+				<Option output="Neverdoom" prefix_auto="1" extension_auto="1" />
+				<Option object_output="bin\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Source\achievements.hpp">
+			<Option virtualFolder="File Systems\" />
+		</Unit>
+		<Unit filename="Source\achievementsMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\afterFunctions.hpp">
+			<Option virtualFolder="Declarations\" />
+		</Unit>
+		<Unit filename="Source\background.hpp">
+			<Option virtualFolder="File Systems\" />
+		</Unit>
+		<Unit filename="Source\controlsMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\defines.hpp">
+			<Option virtualFolder="Declarations\" />
+		</Unit>
+		<Unit filename="Source\game.hpp">
+			<Option virtualFolder="Game\" />
+		</Unit>
+		<Unit filename="Source\highscoreMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\highscores.hpp">
+			<Option virtualFolder="File Systems\" />
+		</Unit>
+		<Unit filename="Source\includes.hpp">
+			<Option virtualFolder="Declarations\" />
+		</Unit>
+		<Unit filename="Source\initFunctions.hpp">
+			<Option virtualFolder="Declarations\" />
+		</Unit>
+		<Unit filename="Source\main.cpp">
+			<Option virtualFolder="AMain\" />
+		</Unit>
+		<Unit filename="Source\mainMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\notificationEngine.hpp">
+			<Option virtualFolder="Engines\" />
+		</Unit>
+		<Unit filename="Source\optionsMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\pauseMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\players.hpp" />
+		<Unit filename="Source\progressCircle.hpp">
+			<Option virtualFolder="Engines\" />
+		</Unit>
+		<Unit filename="Source\progressMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\reconnectController.hpp">
+			<Option virtualFolder="Controls\" />
+		</Unit>
+		<Unit filename="Source\saveSystem.hpp">
+			<Option virtualFolder="File Systems\" />
+		</Unit>
+		<Unit filename="Source\soundMenu.hpp">
+			<Option virtualFolder="Menus\" />
+		</Unit>
+		<Unit filename="Source\spritesheet.hpp">
+			<Option virtualFolder="File Systems\" />
+		</Unit>
+		<Unit filename="Source\statistics.hpp">
+			<Option virtualFolder="File Systems\" />
+		</Unit>
+		<Unit filename="Source\stringFunctions.hpp">
+			<Option virtualFolder="Declarations\" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
